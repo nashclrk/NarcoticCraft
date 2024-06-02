@@ -1,1 +1,1 @@
-# NarcoticCraft
+# NarcoticsCraft
